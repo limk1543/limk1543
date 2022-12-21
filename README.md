@@ -20,4 +20,4 @@ print('파이썬')
 ```
 
 🚭
-<image src='images/photo.jpg' width=100 height=100>
+<image src='images/25425E4457E39E2A1D.jpg' width=100 height=100>
